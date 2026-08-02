@@ -1,0 +1,21 @@
+region,year,avg_monthly_rent,avg_energy_bill
+Manchester,2021,780,1140
+Manchester,2022,850,1710
+Manchester,2023,950,1690
+Manchester,2024,1050,1560
+London,2021,1650,1290
+London,2022,1750,1870
+London,2023,1950,1840
+London,2024,2100,1700
+Birmingham,2021,720,1120
+Birmingham,2022,790,1690
+Birmingham,2023,880,1670
+Birmingham,2024,970,1540
+Leeds,2021,750,1130
+Leeds,2022,820,1700
+Leeds,2023,910,1680
+Leeds,2024,1010,1550
+United Kingdom,2021,900,1200
+United Kingdom,2022,980,1750
+United Kingdom,2023,1100,1730
+United Kingdom,2024,1250,1600
